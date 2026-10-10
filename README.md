@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0322-coin-change) |
