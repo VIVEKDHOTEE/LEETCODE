@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0283-move-zeroes) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0435-non-overlapping-intervals) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/VIVEKDHOTE16/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
